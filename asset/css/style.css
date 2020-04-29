@@ -1,0 +1,229 @@
+body {
+	font-family: 'Open Sans', sans-serif !important;
+    background: #fff;
+    color: #222;
+    
+}
+
+.mybg-dark {
+    background: #000000 !important;
+}
+/* HEADER PART & nav......................*/
+.navbar {
+	font-weight: 700;
+	padding: 15px 0;
+	transition: padding .5s; }
+  .navbar .nav-item {
+    font-size: large;
+    font-color: white;
+    padding-right: 20px; }
+    
+header.header {
+    position: relative;
+    height: 100vh;
+    background-color: #343a40;
+    background: url('https://www.carbonbrief.org/wp-content/uploads/2019/10/canada-hero-01-1550x804.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+header.header .overlay
+{position:absolute;
+background-color:#212529;
+height:100%;
+width:100%;
+opacity:.3;
+}
+
+@media (min-width:768px) {
+    header.header {
+        padding-top: 12rem;
+        padding-bottom: 12rem;
+    }
+    header.header h3 {
+        font-size: 4rem;
+    }
+}
+.details{
+    padding-top:5rem;
+    padding-bottom:5rem;
+    
+}
+
+.can-img img {
+    height: 325px;
+    width:100%;
+    object-fit: cover;
+}
+
+
+.btn-login {
+    width: 138px;
+    background: #1fc6d8 !important;
+    border: 1px solid #1fc6d8 !important;
+}
+.btn-login:hover{
+       background: #3683a1 !important;
+    border: 1px solid #1fc6d8 !important;
+}
+
+h3.heading {
+    font-family: 'Kaushan Script', cursive;
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    margin:0;
+}
+
+.btn-register {
+    width: 138px;
+    background: #1fc6d8 !important;
+    border: 1px solid #1fc6d8 !important;
+}
+
+
+.btn-register:hover{
+       background: #3683a1 !important;
+    border: 1px solid #1fc6d8 !important;
+    
+}
+
+
+/* footer.................*/
+footer.footer
+{
+  padding-top:4rem;
+padding-bottom:4rem;
+font-size: large;
+}
+
+li.list-inline-item a {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+
+/*-------------------responsive-----------------*/
+
+@media screen and (max-width: 520px) {
+    ::placeholder {
+        font-size: 10px;
+    }
+    .scroll-down {
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        top: 45px;
+    }
+    
+    .text-block {
+        padding: 15px;
+    }
+    .linear-grid img {
+        width: 100%;
+        height: 181px;
+    }
+    .my-grid img {
+        width: 100%;
+    }
+   
+   
+}
+@media screen and (max-width: 767px) {
+    .btn-login{
+       width:100%; 
+    }
+    .btn-register {
+         width:100%; 
+    }
+}
+
+
+/* HOME PAGE IMAGE...................*/
+
+#hero-image{
+    height:600px;
+    width: 100%;
+    background: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2019%2F07%2Fvancouver-canada-02-CACITIESWB19.jpg") no-repeat center center;
+  
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+
+}
+
+#hero-outer{
+    height:600px;
+    width: 100%;
+    overflow:hidden;
+    position: relative;
+    
+}
+
+.navbar.top-bar {
+	border-radius: 0;
+	padding: 16px 0;
+	z-index: 16;
+}
+
+.icon {
+	padding: 1em .5em;
+	position: fixed;
+	top: 0;
+	left: 0;
+	transition: all 0.25s ease;
+	width: 100%;
+}
+.top-bg {
+	background-color: brown;
+	color: #000;
+}
+
+.top-bar .nav-link {
+	color: #fff;
+	font-size: 16px;
+	font-weight: 500;
+	padding: 12px 18px!important;
+}
+h3.head {
+    font-family: 'Kaushan Script', cursive;
+    color: yellow;
+    font-weight: bold;
+    font-size: 20px;
+    margin:0;
+}
+p.head {
+    font-family: 'Kaushan Script', cursive;
+    color: yellow;
+    font-weight: bold;
+    font-size: 20px;
+    margin:0;
+}
+.map-container{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+header.restrant {
+    position: relative;
+      height: 500;
+    background: url(https://img2.10bestmedia.com/static/img/placeholder-restaurants.jpg) no-repeat fixed center center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+

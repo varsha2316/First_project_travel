@@ -30,8 +30,8 @@ In this section, you should go over the different parts of your project, and des
 ### Features Left to Implement ###
 * Options to provide customer reviews about destinations.
 * New webpage for Accomodation/Hotels information
- * Application form for Accomodation preferencesa.
-  * Option to provide hotel reviewa
+ * Application form for Accomodation preferences.
+  * Option to provide hotel review
 * New webpage for various travel modes and options including car rental details and public bus timings.
  
  ## Technologies Used ##

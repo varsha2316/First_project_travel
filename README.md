@@ -1,14 +1,14 @@
 # EXPLORE CANADA
    ## UX ##
-1.This website is for travelers who wish to explore Canada.
-2.This website gives them an idea about two main categories every traveler wants to know about ie main attractions and food destinations
-3.We provide free travel advisory and guidence for those who register in our website and those who want to reach out directly has been provoded with our map location
+* This website is for travelers who wish to explore Canada.
+* This website gives them an idea about two main categories every traveler wants to know about ie main attractions and food destinations
+* We provide free travel advisory and guidence for those who register in our website and those who want to reach out directly has been provoded with our map location
 ### USER STORIES ###
-1. As an admin i wish to give an on stop destination for tourist to Canada.
-2. As a user i can register and avail free travel advisory services.
- 3. As a User i can get information about the places i wish to visit.
- 4. As a user i can explore the various food culture and by clicking the link it will redirect to the orginal restaurant page which i can book a table and make prior reservations.
- 5.As a user i can raise my queries to travel experts.
+* As an admin i wish to give an on stop destination for tourist to Canada.
+* As a user i can register and avail free travel advisory services.
+* As a User i can get information about the places i wish to visit.
+*  As a user i can explore the various food culture and by clicking the link it will redirect to the orginal restaurant page which i can book a table and make prior reservations.
+ * As a user i can raise my queries to travel experts.
  
  #### WIREFRAMES ####
  ![image](image.jpg)
@@ -16,23 +16,23 @@
 ## FEATURES ##
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 ### Existing Features###
-1.Application for website login.
-2.Navigation to home page.
-3.Navigation to attraction page.
-4.Navigation to Restaurant page.
-5.Navigation to Contact page.
-6.Redirection link to restaurant webpages.
-7.Direction Map.
-8.Provided Contact Us form.
-9.Slide show of tourist attractions and brief description about destination.
-10.Provide Login form.
+* Application for website login.
+* Navigation to home page.
+* Navigation to attraction page.
+* Navigation to Restaurant page.
+* Navigation to Contact page.
+* Redirection link to restaurant webpages.
+* Direction Map.
+* Provided Contact Us form.
+* Slide show of tourist attractions and brief description about destination.
+* Provide Login form.
 
 ### Features Left to Implement ###
-1.Options to provide customer reviews about destinations.
-2.New webpage for Accomodation/Hotels information
-    a.Application form for Accomodation preferences.
-    b.Option to provide hotel review
-3.New webpage for various travel modes and options including car rental details and public bus timings.
+* Options to provide customer reviews about destinations.
+* New webpage for Accomodation/Hotels information
+    2a.Application form for Accomodation preferences.
+    2a.Option to provide hotel review
+* New webpage for various travel modes and options including car rental details and public bus timings.
  
  ## Technologies Used ##
  * **HTML** is used for the creation of webpage.

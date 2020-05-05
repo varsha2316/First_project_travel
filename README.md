@@ -11,10 +11,7 @@
  5.As a user i can raise my queries to travel experts.
  
  #### WIREFRAMES ####
- ![image](https://drive.google.com/open?id=1tGVf978Va3Vey_6QDwz1ZeA4CUBt06Ne)
- ![image](https://drive.google.com/file/d/1tG-hiJTTTKOeyak3HMLi7YEYJn1vSfDo/view?usp=sharing)
-![image](https://drive.google.com/file/d/1tCBlgCWRXUfSP-nRs8Pfbdmnh8hIAJ30/view?usp=sharing)
-![image](https://drive.google.com/file/d/1tGVf978Va3Vey_6QDwz1ZeA4CUBt06Ne/view?usp=sharing)
+ ![image](a.jpg)
 
 ## FEATURES ##
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.

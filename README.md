@@ -57,17 +57,13 @@ In this section, you should go over the different parts of your project, and des
   eg: ipad pro: 1024 x 1336
   
 ## Deployment ##
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+The project was performed  using replit application which includes the various aspects of webpage creation like page development, page designing.After the webpage creation in replit the project  is linked to GitHub using version control.After Linking with Github the project code is connected to GitHub from replit.Finaly the project was deployed to GitHub hosting platform.
 
 ## Credits ##
+
 ### Content ###
+
 * The text for attraction section was copied from the Wikipedia article important tourist attractions
 * The text for login section was copied from the Wikipedia article canada.
 
